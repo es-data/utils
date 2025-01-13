@@ -29,3 +29,10 @@ Yes
 No
 
 <!-- If yes, describe the impact and migration path for existing applications. -->
+
+---
+<!-- DON'T REMOVE THIS SECTION -->
+for anyone who stumble this PR, please vote by using this emoji reactions
+- 👍 if you like it
+- 👎 if you hate it
+- 😕 if you think it contain breaking change
